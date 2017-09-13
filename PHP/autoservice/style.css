@@ -1,0 +1,128 @@
+.add, .result{
+    position:relative;
+    width:30%;
+    left:50%;
+    margin-left:-15%;
+    border-collapse: collapse;
+}
+.add caption, .result caption{
+    border:1px solid #000;
+    background:#ff0;
+    font-weight:bold;
+}
+.add td{ padding:5px 0;}
+.add td:first-child{ font-weight:bold;}
+.add tr:last-child td{ padding-top:10px; text-align:center;}
+.result td{border:1px solid #000}
+.panel{
+    margin:5px;
+    padding:0;
+    width:40%;
+    border:0 none;
+    position:relative;
+    left:50%;
+    margin-left:-20%;
+}
+.left{ float:left;}
+.right{float:right;}
+.order td:first-child{
+    position:relative;
+    width:30%;
+}
+.shop_list{
+    position:relative;
+    width:100%;
+}
+.shop, .works, .master, .material, .client, .auto{
+    border:1px solid #000;
+    border-collapse:collapse;
+    position:relative;
+    width:30%;
+    text-align:center;
+    margin-top:10px;
+}
+
+.works, .client{ margin-left: 5%; }
+
+.shop caption, .works caption, .master caption, .material caption,
+.client caption, .auto caption, .order caption{
+    border:1px solid #000;
+    background:#ff0;
+    font-weight:bold;
+}
+
+.shop td, .works td, .master td, .material td, .client td, .auto td{
+    border:1px solid #000;
+}
+
+.shop td a, .works td a, .master td a, .material td a,
+.client td a, .auto td a{
+    display:block;
+    width:100%;
+    text-decoration:none;
+    color:#000;
+}
+
+.shop td:hover, .works td:hover, .master td:hover, .material
+td:hover, .client td:hover, .auto td:hover{
+    background:#eee;
+}
+
+.view, .order, .search{
+    margin-top:10px;
+    width:100%;
+    border-collapse:collapse;
+    text-align:center;
+    border:1px solid #000;
+    float:left;
+}
+
+.order td{
+    border:1px solid #000;
+}
+
+.view td a, .order td a{
+    display:block;
+    width:100%;
+    text-decoration:none;
+    color:#000;
+}
+
+.view td:hover, .order td:hover{
+    background:#eee;
+}
+
+.search td input{
+    width:50%;
+    position:relative;
+    float:left;
+}
+
+.search td select, .search td button{
+    margin-left:5px;
+    float:left;
+}
+
+.show{
+    text-align:center;
+    border-collapse: collapse;
+    width:80%;
+    left:50%;
+    margin-left:-40%;
+    position:relative;
+}
+
+.show tr:first-child{
+    background: #eee;
+    color:#00f;
+}
+
+.show td{
+    border:1px solid #000;
+}
+
+.show caption, .search caption{
+    background:#ff0;
+    font-weight: bold;
+    border:1px solid #000;
+}

@@ -1,0 +1,4 @@
+C:\Users\Denis\Desktop\SengletonPattern\SengletonPattern\bin\Debug\SengletonPattern.exe
+C:\Users\Denis\Desktop\SengletonPattern\SengletonPattern\bin\Debug\SengletonPattern.pdb
+C:\Users\Denis\Desktop\SengletonPattern\SengletonPattern\obj\x86\Debug\SengletonPattern.exe
+C:\Users\Denis\Desktop\SengletonPattern\SengletonPattern\obj\x86\Debug\SengletonPattern.pdb

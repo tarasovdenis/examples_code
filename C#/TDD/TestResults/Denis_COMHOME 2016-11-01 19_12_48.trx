@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a2c21b08-9afe-4b83-a214-8aea48ba64b6" name="Denis@COMHOME 2016-11-01 19:12:48" runUser="comhome\Denis" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="5632f53a-ee53-4cae-8a44-ca4fa81821fb">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Denis_COMHOME 2016-11-01 19_12_48" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-11-01T19:12:48.1506885+05:00" queuing="2016-11-01T19:12:48.2276929+05:00" start="2016-11-01T19:12:48.4277044+05:00" finish="2016-11-01T19:12:49.0657408+05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestSecondFibonacciNumber" storage="c:\users\denis\desktop\tdd\tdd\bin\debug\tdd.dll" id="aa7892c4-5779-fa36-a882-1957f8bd24c6">
+      <Execution id="4a939223-9f86-4942-8873-0a4f57678411" />
+      <TestMethod codeBase="C:/Users/Denis/Desktop/TDD/TDD/bin/Debug/TDD.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TDD.MathUtils, TDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSecondFibonacciNumber" />
+    </UnitTest>
+    <UnitTest name="TestFirstFibonacciNumber" storage="c:\users\denis\desktop\tdd\tdd\bin\debug\tdd.dll" id="941566a3-4d4d-8c3a-5a0d-bbb73020607a">
+      <Execution id="3d9a3305-0503-4348-b266-155ffa50d6a7" />
+      <TestMethod codeBase="C:/Users/Denis/Desktop/TDD/TDD/bin/Debug/TDD.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TDD.MathUtils, TDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFirstFibonacciNumber" />
+    </UnitTest>
+    <UnitTest name="TestThirdFibonacciNumber" storage="c:\users\denis\desktop\tdd\tdd\bin\debug\tdd.dll" id="164fde5b-031c-0336-b0f0-0cd099d38ec1">
+      <Execution id="6d8e2bfb-2982-4459-9f9f-d96a2d3bbfab" />
+      <TestMethod codeBase="C:/Users/Denis/Desktop/TDD/TDD/bin/Debug/TDD.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TDD.MathUtils, TDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestThirdFibonacciNumber" />
+    </UnitTest>
+    <UnitTest name="TestFourthFibonacciNumber" storage="c:\users\denis\desktop\tdd\tdd\bin\debug\tdd.dll" id="8dba589f-60b2-0dd9-a227-5161fe874491">
+      <Execution id="ccbdc222-df41-42e6-afbd-3f22d6e55170" />
+      <TestMethod codeBase="C:/Users/Denis/Desktop/TDD/TDD/bin/Debug/TDD.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TDD.MathUtils, TDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestFourthFibonacciNumber" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="164fde5b-031c-0336-b0f0-0cd099d38ec1" executionId="6d8e2bfb-2982-4459-9f9f-d96a2d3bbfab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8dba589f-60b2-0dd9-a227-5161fe874491" executionId="ccbdc222-df41-42e6-afbd-3f22d6e55170" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="941566a3-4d4d-8c3a-5a0d-bbb73020607a" executionId="3d9a3305-0503-4348-b266-155ffa50d6a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aa7892c4-5779-fa36-a882-1957f8bd24c6" executionId="4a939223-9f86-4942-8873-0a4f57678411" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6d8e2bfb-2982-4459-9f9f-d96a2d3bbfab" testId="164fde5b-031c-0336-b0f0-0cd099d38ec1" testName="TestThirdFibonacciNumber" computerName="COMHOME" duration="00:00:00.0168244" startTime="2016-11-01T19:12:48.4737070+05:00" endTime="2016-11-01T19:12:48.9087319+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6d8e2bfb-2982-4459-9f9f-d96a2d3bbfab">
+    </UnitTestResult>
+    <UnitTestResult executionId="ccbdc222-df41-42e6-afbd-3f22d6e55170" testId="8dba589f-60b2-0dd9-a227-5161fe874491" testName="TestFourthFibonacciNumber" computerName="COMHOME" duration="00:00:00.0048334" startTime="2016-11-01T19:12:48.9137322+05:00" endTime="2016-11-01T19:12:48.9247328+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ccbdc222-df41-42e6-afbd-3f22d6e55170">
+    </UnitTestResult>
+    <UnitTestResult executionId="3d9a3305-0503-4348-b266-155ffa50d6a7" testId="941566a3-4d4d-8c3a-5a0d-bbb73020607a" testName="TestFirstFibonacciNumber" computerName="COMHOME" duration="00:00:00.0042760" startTime="2016-11-01T19:12:48.9267329+05:00" endTime="2016-11-01T19:12:48.9437339+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d9a3305-0503-4348-b266-155ffa50d6a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="4a939223-9f86-4942-8873-0a4f57678411" testId="aa7892c4-5779-fa36-a882-1957f8bd24c6" testName="TestSecondFibonacciNumber" computerName="COMHOME" duration="00:00:00.0015895" startTime="2016-11-01T19:12:48.9477341+05:00" endTime="2016-11-01T19:12:48.9597348+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a939223-9f86-4942-8873-0a4f57678411">
+    </UnitTestResult>
+  </Results>
+</TestRun>

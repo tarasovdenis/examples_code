@@ -1,0 +1,5 @@
+C:\Users\Denis\Desktop\TDD2\TDD2\bin\Debug\TDD2.dll
+C:\Users\Denis\Desktop\TDD2\TDD2\bin\Debug\TDD2.pdb
+C:\Users\Denis\Desktop\TDD2\TDD2\obj\Debug\TDD2.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\TDD2\TDD2\obj\Debug\TDD2.dll
+C:\Users\Denis\Desktop\TDD2\TDD2\obj\Debug\TDD2.pdb
